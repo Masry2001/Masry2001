@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Masry2001
+- 👋 Hi, I’m Mohamed Mosa
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning html, css and javascript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- I'm a full stack developer
 
 <!---
 Masry2001/Masry2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
